@@ -20,7 +20,7 @@ export default function App() {
   const [currentSubject, setCurrentSubject] = useState(null);
   const [focusList, setFocusList] = useState([]);
 
-  
+  const dummyVal ='';
 
   const ONE_SECOND_IN_MS = 1000;
   const PATTERN = [
